@@ -1,0 +1,18 @@
+                         Broward College National Bank                                                      
+
+			March Bank Statment                            
+
+		Name			UserName		AccountNumber
+
+		------------------------------------------------------------
+
+		supermankent		skent55		217-28-392
+
+
+		Beginning Balance:$1200.56
+
+		Total Withdrawals:$212.1
+
+		Total Deposits:$410.29
+
+		Ending Balance:$1398.75
